@@ -1,4 +1,2 @@
-# Welcome to my profile
-
-[![KaylBing's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaylBing)](https://github.com/KaylBing/github-readme-stats)
-
+# I like Computers?
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaylBing&layout=compact&theme=radical&hide_border=true&count_private=true)
